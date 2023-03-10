@@ -1,0 +1,18 @@
+Task 0
+In main am folosit un while ce citeste instructiuni si determina ce reprezinta ele.
+
+Task 1
+Pentru primele doua operatii, am utilizat doua functii; una care salveaz in memorie datele unui imagini
+bmp (edit); alta care salveaza intr-un fisier datele unei imagini bmp (save). Pentru calcularea pedding-ului
+am folosit o functie padding. Pentru operatia quit am eliberat memoria si am oprit programul.
+
+Task 2
+Pentru operatia insert am realizat o functie care salva in memorie datele pozei ce trebuia suprapuse si 
+care trecea din punctul mentionat pixelii pozei noi peste cei ai pozei originare. La final am eliberat
+memoria noii poze si am inchis fisierul acesteia.
+
+Task 3
+Pentru a desena o linie (opertia draw line), am realizat functia draw_line, ce calcula pixelii principali ce trebuiau colorati dupa formula data. Pentru a respecta culoara si grosimea "creionului" (operatiile set), am folosit functia fcolor. Pentru desenarea dreptunghiului si a triunghiului am folosit in mod repetat operatia draw line.
+
+Task 4
+Pentru operatia fill am construit o functie recursiva  cu acelasi nume.
